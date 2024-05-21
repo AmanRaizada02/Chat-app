@@ -4,4 +4,4 @@ This app is created using React, Redux, socket.io, NodeJS, and mongoDB with clea
 
 https://github.com/AmanRaizada02/Chat-app/assets/83814639/04bc837b-084f-44d6-ba1e-705350354383
 
-To run the app locally you first need to create account on mongoDB and cloudinary and setup the .env file. Then in `server` folder do `npm run dev` and in `client` folder do `npm start`
+To run the app locally you first need to create account on mongoDB and cloudinary and setup the .env file. Then in `server` folder do `npm i` then  `npm run dev` and in `client` folder do `npm i` then `npm start`
